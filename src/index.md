@@ -5,7 +5,7 @@ nav:
   title: Home
 ---
 
-[Pack11ty]{.pack11ty} is an heavily opinionated [Eleventy](https://www.11ty.dev/) template project created by [Nicolas Hoizey](https://nicolas-hoizey.com/).
+so if i change this here what happens
 
 ::: warning
 **WARNING: This is Work In Progress, not ready for production!**
